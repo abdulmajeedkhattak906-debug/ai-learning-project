@@ -1,0 +1,10 @@
+{
+  "name": "CM + AI Health Connect",
+  "short_name": "CM Health",
+  "description": "Community Mobilizer Health Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#1769aa",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
